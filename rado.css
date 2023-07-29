@@ -1,0 +1,62 @@
+/* #sec{
+    height: 38px;
+    width: 115px;
+    background-image: url("https://www.rado.com/static/version1687937748/frontend/Rado/default/en_GB/images/logo.svg");
+    background-repeat: no-repeat;
+} */
+#main{
+
+    height: 500px;
+    background-size: cover;
+    background-image: url("https://www.rado.com/media/sgecom_contentsystem/homepage/homepage_banners/captain-cook-green-focus-hero.jpg?im=Resize=(1800,540),aspect=fill");
+}
+#watch:hover{
+    transition:all 1s ease;
+    /* position: relative;
+    top:-10px; */
+    margin-top: -20px;
+}
+
+/* all watch img  */
+#img1{
+    width: 500px;
+    height: 300px;
+    background-image: url("https://www.rado.com/media/sgecom_contentsystem/homepage/captain-cook-chronograph_1.jpg?im=Resize=(2000,1400),aspect=fill;Crop=(0,0,2000,1400),gravity=Center");
+    background-size: cover;
+}
+#img2{
+    width: 500px;
+    height: 300px;
+    background-image: url("https://www.rado.com/media/sgecom_contentsystem/homepage/true-square.jpg?im=Resize=(1300,910),aspect=fill;Crop=(0,0,1300,910),gravity=Center");
+    background-size: cover;
+}
+#img3{
+    width: 500px;
+    height: 300px;
+    background-image: url("https://www.rado.com/media/sgecom_contentsystem/homepage/captain-cook-over-pole.jpg?im=Resize=(1300,910),aspect=fill;Crop=(0,0,1300,910),gravity=Center");
+    background-size: cover;
+}
+#img4{
+    width: 750px;
+    height: 450px;
+    background-image: url("https://www.rado.com/media/sgecom_contentsystem/homepage/men-watches.jpg?im=Resize=(2000,1400),aspect=fill;Crop=(0,0,2000,1400),gravity=Center");
+    background-size: cover;
+}
+#img5{
+    width: 755px;
+    height: 450px;
+    background-image: url("https://www.rado.com/media/sgecom_contentsystem/homepage/women-watches.jpg?im=Resize=(2000,1400),aspect=fill;Crop=(0,0,2000,1400),gravity=Center");
+    background-size: cover;
+}
+#ul1 li a{
+    text-decoration: none;
+    color: gray;
+}
+#ul2 li a{
+    text-decoration: none;
+    color: gray;
+}
+#ul3 li a{
+    text-decoration: none;
+    color: gray;
+}
